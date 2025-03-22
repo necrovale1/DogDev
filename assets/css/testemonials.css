@@ -1,0 +1,20 @@
+.testemonials{
+    background-color: var(--foreground);
+    color: var(--primary);
+}
+.testemonials .container{
+    max-width: 60rem;
+}
+.testemonials .quote{
+    font-weight: bold;
+    font-size: 3rem;
+    line-height: 5rem;
+    padding: 6rem 2rem;
+    text-align: center;
+}
+.testemonials .icons{
+    display: flex;
+    justify-content: space-between;
+    padding: 3rem 2rem;
+    margin: auto;
+}
