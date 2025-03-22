@@ -15,6 +15,7 @@ Este repositório contém o projeto DogDev, um site desenvolvido do zero durante
 
 # 🌟 **Extras**
 🎨 Design intuitivo e moderno.<br>
+🔍 **Modo Escuro**<br>
 💡 Possibilidade de expansão com novas funcionalidades.<br>
 
 # 🔗 **Acesso ao Projeto**
