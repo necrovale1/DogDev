@@ -23,6 +23,8 @@ O site está hospedado e pode ser acessado pelo seguinte link: [DogDev](https://
 
 ✍️ Criado pelos Professores, e executado por Carolina Rodrigues de Mattos, conhecida como Necrovale1
 
+# ✔️ **Finalizado em 28/03** 
+
 # 👩‍🏫 **Equipe de Professores**
 **Prof. Thiago Rariz**<br>
 **Prof. Carlos Eduardo**
