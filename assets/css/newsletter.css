@@ -1,0 +1,45 @@
+.newsletter{
+    padding: 5rem 0;
+    background-color: var(--foreground);
+}
+
+.newsletter .container{
+    padding: 0 3rem;
+}
+
+.newsletter h2{
+    font-family: "Grandstander", sans-serif;
+    font-weight: bold;
+    letter-spacing: -0.1rem;
+    font-size: 4.5rem;
+    margin-bottom: 2rem;
+}
+
+.newsletter h2 span{
+    color: var(--secundary);
+}
+
+.newsletter form{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.newsletter input{
+    flex: 1;
+    padding: 2rem;
+    font-size: 2rem;
+    border-radius: 15px;
+    border: 1px solid var(--primary);
+    background-color: var(--hero-background);
+    outline: none;
+}
+
+@media(width>600px){
+    .newsletter form{
+        flex-direction: row;
+        max-width: 60rem;
+    }
+}
+

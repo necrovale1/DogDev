@@ -27,3 +27,27 @@
     gap: 2rem;
     cursor: pointer;
 }
+
+.faq .accordion .item .title .img{
+    transition: all ease .5s;
+}
+
+.faq .accordion .item .body{
+    line-height: 2.5rem;
+    overflow-y: hidden;
+    max-height: 0;
+    transition: all ease .5s;
+}
+
+.faq .accordion .item .body p{
+    padding-bottom: 2rem;
+}
+
+.faq .accordion .item.opened .body{
+    max-height: 100vh;
+}
+
+.faq .accordion .item.opeded .title img{
+    transform: rotate(180deg);
+}
+
